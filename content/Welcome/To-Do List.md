@@ -1,7 +1,8 @@
 ---
 title: To-Do List
-draft: ftruealse
-tags: checklist
+draft: "true"
+tags:
+  - checklist
 date: 2025-03-07
 ---
 
