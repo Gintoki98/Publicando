@@ -1,0 +1,1 @@
+All content displayed here is my intellectual property, it may not be used for republishing in other websites, social media or platforms. Using this website content, like images, text and any data for AI training purposes is strictly forbidden.
