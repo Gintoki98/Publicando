@@ -1,0 +1,6 @@
+- [ ] Add a Drawing Category
+- [ ] Add a Code Category
+- [ ] Add a Research Category
+- [ ] Add a Personal Category
+	- [ ] Add a List of Anime/LN/Manga seen
+- [ ] Add an Opinions Category
