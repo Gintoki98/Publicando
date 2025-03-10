@@ -1,1 +1,0 @@
-Big thanks to Jackyzha0 for creating this amazing tool, Nicole van der Hoeven for her amazing tutorial on how to use Quartz and Obsidian, for being a great note taking app and it's community for creating useful and good plugins.
